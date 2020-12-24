@@ -1,0 +1,3 @@
+include ':cmprickerlib'
+include ':app'
+rootProject.name = "CMPicKer"
